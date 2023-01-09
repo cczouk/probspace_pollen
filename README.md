@@ -80,4 +80,4 @@ NNのモデルは自前で以前に実装したTransformerをベースにした�
 
 - 'pred_***_0.1.py': 各基本モデル
 - 'pred_ensemble_0.2.py': アンサンブル・後処理
-- 'pred_***_0.1_mse.py': 各基本モデルとrmseを使用した際の差
+- 'pred_***_0.1_mse.py': 各基本モデルとrmseを使用した際の差分
